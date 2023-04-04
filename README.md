@@ -28,4 +28,5 @@ MIT License
 
 ## Website Screenshot
 
-Screenshot 2023-04-03 at 10.10.05 PM.png
+![Screenshot 2023-04-03 at 10 10 05 PM](https://user-images.githubusercontent.com/127680441/229681330-6f033fe5-251b-463f-b871-9642b9e6231f.png)
+
